@@ -12,6 +12,7 @@ Welcome to my Github page! This is Jeffery and I am currently a tool developer a
 - Chat GPT
 - Stable Diffusion
 - CI/CD
+- Blockchain
 
 #### 🌻 I am studying 🌻
 - IELTS
