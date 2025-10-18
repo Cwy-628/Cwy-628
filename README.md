@@ -13,10 +13,12 @@ Welcome to my Github page! This is Jeffery and I am currently a tool developer a
 - Stable Diffusion
 - CI/CD
 - Blockchain
+- Quantitative Trading
 
 #### 🌻 I am studying 🌻
 - IELTS
 - UE5
+- Finance
 
 #### :computer: Programming languages and tools :computer: : 
 <p>
